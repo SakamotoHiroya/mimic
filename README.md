@@ -14,5 +14,5 @@ mimicは「真似る」SNSです！
 
 ## サーバ
 
-サーバーのレポジトリは[こちら](https://github.com/Tsubasa-2005/mimic-server)です
+サーバーのリポジトリは[こちら](https://github.com/Tsubasa-2005/mimic-server)です
 
